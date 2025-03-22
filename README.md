@@ -1,6 +1,6 @@
 # DotG's Custom VSCode Setup 🚀
 
-Welcome to my curated repository of VSCode configurations and customizations. Inside, you'll find a comprehensive guide to setting up your VSCode environment, along with recommended extensions, tailored settings, and custom CSS/JS modifications. 😎
+Welcome to my curated repository of VSCode configurations and customizations. Inside, you'll find a comprehensive guide [INCOMING VERY SOON!] to setting up your VSCode for customization, along with recommended extensions, tailored settings, and custom CSS/JS modifications. 😎
 
 ## What's Inside 🔍
 
