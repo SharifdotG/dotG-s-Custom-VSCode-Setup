@@ -1,0 +1,134 @@
+{
+    "editor.tokenColorCustomizations": {
+    	"textMateRules": [
+        	{
+            	"scope": [
+                	"comment",
+                	"keyword.control",
+                	"variable.language",
+                	"entity.name.class",
+                	"entity.name.type",
+                	"entity.name.function",
+                	"storage.type",
+                	"string.quoted.other.lt-gt.include",
+                	"support.function",
+                	"support.constant",
+                	"text.html.basic",
+                	"entity.name.tag.html",
+                	"entity.other.attribute-name.html",
+                	"meta.tag.structure.any.html",
+                	"punctuation.definition.tag.html",
+                	"punctuation.definition.tag.begin.html",
+                	"punctuation.definition.tag.end.html"
+            	],
+            	"settings": {
+                	"fontStyle": "italic bold"
+            	}
+        	}
+    	]
+	},
+    "workbench.colorTheme": "Eva Dark Bold",
+	"editor.fontFamily": "DotGMono Nerd Font",
+	"files.autoSave": "afterDelay",
+	"editor.cursorBlinking": "expand",
+	"files.autoSaveDelay": 500,
+    "oneDarkPro.bold": true,
+    "oneDarkPro.vivid": true,
+	"oneDarkPro.editorTheme": "One Dark Pro Mix",
+	"workbench.productIconTheme": "fluent-icons",
+	"workbench.iconTheme": "material-icon-theme",
+	"C_Cpp.clang_format_fallbackStyle": "{BasedOnStyle: LLVM, IndentWidth: 4, TabWidth: 4}",
+	"codesnap.shutterAction": "copy",
+	"prettier.tabWidth": 4,
+	"code-runner.runInTerminal": true,
+	"workbench.sideBar.location": "right",
+	"redhat.telemetry.enabled": true,
+	"extensions.ignoreRecommendations": true,
+	"editor.fontLigatures": true,
+	"[html]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"editor.linkedEditing": true,
+	"explorer.confirmPasteNative": false,
+	"explorer.confirmDragAndDrop": false,
+	"explorer.compactFolders": false,
+	"explorer.confirmDelete": false,
+	"[css]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"editor.fontSize": 16,
+	"github.copilot.enable": {
+		"*": true,
+		"plaintext": true,
+		"markdown": true,
+		"scminput": false,
+		"c": false
+	},
+	"git.enableSmartCommit": true,
+	"git.autofetch": true,
+	"git.confirmSync": false,
+	"[markdown]": {
+		"editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
+	},
+	"terminal.integrated.defaultProfile.windows": "PowerShell",
+	"terminal.integrated.suggest.enabled": true,
+	"workbench.startupEditor": "none",
+	"terminal.integrated.fontLigatures": true,
+	"terminal.integrated.enableMultiLinePasteWarning": "never",
+	"editor.wordWrap": "on",
+	"extensions.trustedPublishers": [
+		"adpyke",
+		"albert",
+		"batisteo",
+		"bierner",
+		"charliermarsh",
+		"christian-kohler",
+		"cschlosser",
+		"davidanson",
+		"donjayamanne",
+		"eamodio",
+		"ecmel",
+		"esbenp",
+		"formulahendry",
+		"golang",
+		"ibm",
+		"kamikillerto",
+		"kevinrose",
+		"maziac",
+		"mechatroner",
+		"miguelsolorio",
+		"njpwerner",
+		"pkief",
+		"redhat",
+		"ritwickdey",
+		"tonybaloney",
+		"usernamehw",
+		"wmaurer",
+		"yzhang",
+		"zainchen",
+		"zhuangtongfa"
+	],
+	"python.createEnvironment.trigger": "off",
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"liveServer.settings.fullReload": true,
+	"editor.minimap.enabled": false,
+	"editor.copyWithSyntaxHighlighting": false,
+	"diffEditor.ignoreTrimWhitespace": false,
+	"files.trimTrailingWhitespace": true,
+	"editor.hover.delay": 750,
+
+	// Here you can add custom styles and scripts to modify the VS Code further
+	"vscode_custom_css.imports": [
+		"file:///D:/Programming/VSCode/dotG's%20Custom%20VSCode%20Setup/custom-vscode.css",
+		"file:///D:/Programming/VSCode/dotG's%20Custom%20VSCode%20Setup/vscode-script",
+		"file:///c:/Users/SharifdotG/.vscode-insiders/extensions/brandonkirbyson.vscode-animations-2.0.7/dist/updateHandler.js"
+	],
+	"security.workspace.trust.untrustedFiles": "open",
+	"animations.Enabled": true,
+	"editor.smoothScrolling": true,
+	"editor.cursorSmoothCaretAnimation": "on",
+	"terminal.integrated.smoothScrolling": true,
+	"workbench.list.smoothScrolling": true,
+}
