@@ -121,8 +121,8 @@
 
 	// Here you can add custom styles and scripts to modify the VS Code further
 	"vscode_custom_css.imports": [
-		"file:///D:/Programming/VSCode/dotG's%20Custom%20VSCode%20Setup/custom-vscode.css",
-		"file:///D:/Programming/VSCode/dotG's%20Custom%20VSCode%20Setup/vscode-script",
+		"file:///C:/Users/SharifdotG/Documents/VSCode_Custom/custom-vscode.css",
+		"file:///C:/Users/SharifdotG/Documents/VSCode_Custom/vscode-script.js",
 		"file:///c:/Users/SharifdotG/.vscode-insiders/extensions/brandonkirbyson.vscode-animations-2.0.7/dist/updateHandler.js"
 	],
 	"security.workspace.trust.untrustedFiles": "open",
