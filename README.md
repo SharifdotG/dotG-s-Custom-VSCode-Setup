@@ -1,5 +1,6 @@
 <div align="center">
   <h1>✨ dotG's Custom VSCode Setup ✨</h1>
+  <img src="/Placeholder/Main.png" alt="Main"/><br>
   <p>
     <strong>Transform your coding experience with hand-crafted Visual Studio Code customizations</strong>
 
@@ -92,11 +93,11 @@ Welcome to my curated repository of Visual Studio Code configurations and custom
 
 ### VSCode Interface 🖥️
 
-<img src="/Placeholder/Example.png" alt="VSCode Screenshot" width="800"/>
+<img src="/Placeholder/Example.png" alt="VSCode Screenshot"/>
 
 ### Configuration Details 🧰
 
-<img src="/Placeholder/Configuration.png" alt="Configurations Screenshot" width="800"/>
+<img src="/Placeholder/Configuration.png" alt="Configurations Screenshot"/>
 
 </div>
 
