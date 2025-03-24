@@ -130,5 +130,5 @@
 	"editor.smoothScrolling": true,
 	"editor.cursorSmoothCaretAnimation": "on",
 	"terminal.integrated.smoothScrolling": true,
-	"workbench.list.smoothScrolling": true,
+	"workbench.list.smoothScrolling": true
 }
