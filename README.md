@@ -58,7 +58,7 @@ Welcome to my curated repository of Visual Studio Code configurations and custom
 
 5. **Update Settings:**
    - Press `Ctrl + Shift + P` and type `Preferences: Open User Settings (JSON)`
-   - Add the following to your `settings.json`:
+   - Add the following to your `settings.json` if it doesn't exist:
 
      ```json
      "vscode_custom_css.imports": [
