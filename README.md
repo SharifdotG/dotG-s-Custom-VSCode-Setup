@@ -2,6 +2,7 @@
   <h1>✨ dotG's Custom VSCode Setup ✨</h1>
   <p>
     <strong>Transform your coding experience with hand-crafted Visual Studio Code customizations</strong>
+    https://github.com/user-attachments/assets/59bc50ab-17d4-452e-81c2-114c6aa19faf
   </p>
 </div>
 
