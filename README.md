@@ -13,9 +13,8 @@ Welcome to my curated repository of Visual Studio Code configurations and custom
 
 <details open>
 <summary><strong>Repository Contents</strong></summary>
-<br>
 
-- **🧩 Extensions:** A curated list of must-have Visual Studio Code extensions
+- **🧩 Extensions:** All Extension are backed inside the my VSCode Profile.
 - **⚙️ Settings & Configurations:** Detailed instructions for replicating my Visual Studio Code setup including custom tweaks
 - **🎨 Custom Theming:** CSS and JS files for a personalized coding experience
 
@@ -25,7 +24,6 @@ Welcome to my curated repository of Visual Studio Code configurations and custom
 
 <details open>
 <summary><strong>Step-by-step Installation Guide</strong></summary>
-<br>
 
 ### Prerequisites
 
