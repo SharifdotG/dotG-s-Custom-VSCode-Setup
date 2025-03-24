@@ -21,6 +21,7 @@ Welcome to my curated repository of Visual Studio Code configurations and custom
 - **🧩 Extensions:** All Extension are backed inside the my VSCode Profile.
 - **⚙️ Settings & Configurations:** Detailed instructions for replicating my Visual Studio Code setup including custom tweaks
 - **🎨 Custom Theming:** CSS and JS files for a personalized coding experience
+- **🌌 Animations:** Because of the custom JS integration, there are new animations everywhere
 
 </details>
 
